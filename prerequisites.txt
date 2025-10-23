@@ -1,0 +1,2 @@
+download a base-fs matching your os and keep it somewhere.
+then use the chroot and other commands accoringly to that directory.
